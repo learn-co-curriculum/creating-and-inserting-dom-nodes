@@ -30,7 +30,7 @@ element.style.backgroundColor = '#f9f9f9';
 
 Feel free to set as many properties as you'd like — this is a good chance to look around and explore different properties of DOM elements!
 
-But notice that no matter what properties we add, the element doesn't show up on the page. What givs?
+But notice that no matter what properties we add, the element doesn't show up on the page. What gives?
 
 ## `appendChild()`
 
@@ -40,7 +40,7 @@ To get an element to appear in the DOM, we have to append it to an existing DOM 
 document.body.appendChild(element)
 ```
 
-If you've been following along, you should wee `"Hello, DOM!"` on the page now (and it should have a light gray background).
+If you've been following along, you should see `"Hello, DOM!"` on the page now (and it should have a light gray background).
 
 We can continue to update `element`, since we have a reference to it:
 
@@ -99,3 +99,5 @@ And it's gone!
 
 - [document.createElement()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 - [appendChild()](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/creating-and-inserting-dom-nodes'>Creating And Inserting Nodes</a> on Learn.co and start learning to code for free.</p>
