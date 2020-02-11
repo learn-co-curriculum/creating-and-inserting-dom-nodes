@@ -8,6 +8,10 @@ By the end of this lesson, you'll be able to
 2.  Insert elements into the DOM
 3.  Remove elements from the DOM
 
+This lesson is a code-along - Learn will expect to see changes made to the file
+contents in order to register completion. Copy and paste the code snippets as
+you go to follow along.
+
 ## `document.createElement()`
 
 Creating an element in JavaScript couldn't be easier. Simply call
